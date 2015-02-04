@@ -3,6 +3,8 @@ Given two binary trees on n nodes, the program finds a sequence of rotations to 
 
 Each binary tree is specified by listing the left and right children of each node. Internal nodes are assigned the numbers 0, 1, ..., n-1 and external nodes are assigned the number -1.
 
+The algorithm takes time O(n lg n).
+
 Sample input/output:
 
 input:
